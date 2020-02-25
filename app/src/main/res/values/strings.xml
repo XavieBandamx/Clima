@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">WeatherOpt</string>
+    <string name="texto_grados">23°</string>
+    <string name="texto_ciudad">Ciudad de Mexico</string>
+    <string name="texto_estatus">Lluvioso</string>
+
+    <string name="texto_bienvenida">
+       Welcome to the weather application, to know your city, plis select the country
+    </string>
+    //Botones
+    <string name="texto_boton1">
+        Weather in Mexico
+    </string>
+    <string name="texto_boton2">
+        Weather in Spain
+    </string>
+    <string name="texto_boton3">
+        Weather in Italy
+    </string>
+    <string name="texto_boton4">
+        Weather in China
+    </string>
+    <string name="texto_boton5">
+        Weather in Turkey
+    </string>
+    <string name="texto_boton6">
+        Weather in Germany
+    </string>
+</resources>
